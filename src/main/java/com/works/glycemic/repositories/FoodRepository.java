@@ -12,6 +12,13 @@ public interface FoodRepository extends JpaRepository<Foods, Long> {
 
     List<Foods> findByCreatedByEqualsIgnoreCase(String createdBy);
 
+    Optional<Foods> findByCreatedByEqualsIgnoreCaseAndGidEquals(String createdBy, Long gid);
+
+    Optional<Foods> findByUrlEqualsIgnoreCaseAllIgnoreCase(String url);
+
+    List<Foods> findByEnabledEqualsOrderByGidDesc(boolean enabled);
+
+
 
 
 
