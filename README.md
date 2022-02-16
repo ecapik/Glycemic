@@ -1,6 +1,6 @@
 ## Demo Account
 
-| E-mail | Şifre | Rol |
+| E-mail | Password | Role |
 | ------------- |:-------------:|:-------------:|
 | ```admin@mail.com``` | ```12345``` | admin |
 | ```ali@mail.com```| ```12345``` | user|
