@@ -9,7 +9,7 @@ Demo Account
 <p>
 <a href="https://user-images.githubusercontent.com/97347801/154284488-ec942b42-b45e-4d1e-806a-53ba8401bde6.png" target="_blank">
 <img src="https://user-images.githubusercontent.com/97347801/154284488-ec942b42-b45e-4d1e-806a-53ba8401bde6.png" width="200" style="max-width:100%;"></a>
-  
+<divided/>
 <a href="https://user-images.githubusercontent.com/97347801/154284499-417e0363-1dd9-43c3-bd1d-04f1d7bb918b.png" target="_blank">
 <img src="https://user-images.githubusercontent.com/97347801/154284499-417e0363-1dd9-43c3-bd1d-04f1d7bb918b.png" width="200" style="max-width:100%;"></a>  
   
