@@ -5,6 +5,21 @@
 | ```admin@mail.com``` | ```12345``` | admin |
 | ```ali@mail.com```| ```12345``` | user|
 
+## Used Technologies
+| Languages & Abilities |
+|-----------------------|
+|        Java           |
+|     Spring-Boot       |
+|      React.js         |
+|   Spring Security     |
+|      Spring-MVC       |
+|    Spring-RestApi     |
+|      Spring-JPA       |
+|      JPA-Auditing     |
+|   Spring-Validation   |
+|     Semantic-ui       |
+
+
 ## Example images
 <p>
 <a href="https://user-images.githubusercontent.com/97347801/154284488-ec942b42-b45e-4d1e-806a-53ba8401bde6.png" target="_blank">
