@@ -16,6 +16,7 @@
 |    Spring-RestApi     |
 |      Spring-JPA       |
 |      JPA-Auditing     |
+|      H2-Database      |
 |     Semantic-ui       |
 
 
