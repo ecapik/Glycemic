@@ -11,12 +11,11 @@
 |        Java           |
 |     Spring-Boot       |
 |      React.js         |
+|      TypeScript       |
 |   Spring Security     |
-|      Spring-MVC       |
 |    Spring-RestApi     |
 |      Spring-JPA       |
 |      JPA-Auditing     |
-|   Spring-Validation   |
 |     Semantic-ui       |
 
 
