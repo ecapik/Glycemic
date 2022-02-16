@@ -1,3 +1,11 @@
+Demo Account
+
+| E-mail | Şifre | Rol |
+| ------------- |:-------------:|:-------------:|
+| ```admin@mail.com``` | ```12345``` | admin |
+| ```ali@mail.com```| ```12345``` | user|
+
+
 ![Screenshot 2022-02-16 170504](https://user-images.githubusercontent.com/97347801/154284488-ec942b42-b45e-4d1e-806a-53ba8401bde6.png)
 
 
